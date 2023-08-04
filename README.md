@@ -1,6 +1,6 @@
 # Feature Selection
 
-📚🔍 Feature Selection Notes - Unlocking the Power of Data! 📊💡
+📚🔍 Feature Selection Notes - Unlocking the Power of Data! 
 
  🌟 Are you ready to dive deep into the world of feature selection? 🤔🔍 Well, look no further because I am delighted to introduce you to "Feature Selection Notes"! 📝🔬
 
